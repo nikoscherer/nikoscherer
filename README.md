@@ -1,6 +1,8 @@
 <h1 align="center">Hello! I'm Niko Scherer</h1>
 <h3 align="center">Software Developer</h3>
-<br /><br />
+<br />
+<h4 align="center">FRC and FTC Robotics 2021-2025</h4>
+<br />
 <h3 align="center">Languages and Tools</h3>
 
 <p align="center">
