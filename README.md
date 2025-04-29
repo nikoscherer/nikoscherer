@@ -6,23 +6,23 @@
 <p align="center">
     <a href="https://www.java.com/en/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="java" width="40" height="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
 
     <a href="https://cplusplus.com/" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="c++" width="40" height="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
 
     <a href="https://dart.dev" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
 
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python" width="40" height="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
 
     <a href="https://flutter.dev" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg" alt="flutter" width="40" height="40" />
-    </a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </a>
 
     <a href="https://www.postman.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="40" height="40" />
